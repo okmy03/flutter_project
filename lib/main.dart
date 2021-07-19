@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                   padding: const EdgeInsets.only(bottom: 8),
                   child: Text(
                     'Oeschinen Lake Campground',
-                    style: TextStyle(
+                    style: TextStyle( 
                       fontWeight: FontWeight.bold,
                     ),
                   ),
